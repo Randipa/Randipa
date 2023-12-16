@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randipa&label=Profile%20views&color=0e75b6&style=flat" alt="randipa" /> </p>
 
-<p align="left"> <a href="[https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox](https://github.com/ryo-ma/github-profile-trophy)"><img src="[[https://github-profile-trophy.vercel.app/?username=randipa](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)" alt="randipa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=randipa" alt="randipa" /></a> </p>
 
 - 🔭 I’m currently working on [Ipay and My Independent Enterprise](https://ipay.lk/)
 
