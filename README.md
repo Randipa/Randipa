@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=randipa" alt="randipa" /></a> </p>
 
-- 🔭 I’m currently working on [Ipay and My Independent Enterprise](https://ipay.lk/)
 
 - 🌱 I’m currently learning **Cyber Security & Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **My personal business and Ipay**
 
-- 🤝 I’m looking for help with **My personal business and Ipay**
+- 🤝 I’m looking for help with **Infive Team and Ipay**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Randipa](https://github.com/Randipa)
 
