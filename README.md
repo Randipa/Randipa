@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saliya Pathum</h1>
-<h3 align="center">A hardworking Full Stack Software Engineer and Devops Engineer</h3>
+<h3 align="center">A hardworking Full Stack AI Software Engineer and Devops Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randipa&label=Profile%20views&color=0e75b6&style=flat" alt="randipa" /> </p>
 
