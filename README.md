@@ -3,6 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=randipa" alt="randipa" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/459d5091-c378-495b-90d1-d4d2b438941e)
+">
+
 - 🌱 I’m currently learning **AWS Certified Cloud Practitioner**
 
 - 💬 Ask me about **Springboot,React,Docker**
