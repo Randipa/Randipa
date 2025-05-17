@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saliya Pathum</h1>
 <h3 align="center">A passionate Full-Stack Software Engineer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=randipa" alt="randipa" /></a> </p>
+
 
 <img align="right" alt="coding" width="400" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
 
